@@ -1,0 +1,8 @@
+supplier_id,supplier_name,country,supplier_rating,payment_terms_days
+SUP001,SteelWorks India,India,0.91,30
+SUP002,EuroMetal GmbH,Germany,0.89,45
+SUP003,AsiaTech Components,China,0.76,30
+SUP004,TechParts Taiwan,Taiwan,0.87,30
+SUP005,PrecisionParts USA,USA,0.95,60
+SUP006,SealPro India,India,0.84,30
+SUP007,BearingCo Japan,Japan,0.93,45

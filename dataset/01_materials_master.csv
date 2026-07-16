@@ -1,0 +1,16 @@
+material_id,material_name,category,uom,unit_cost,ordering_cost,holding_cost_pct,lead_time_days,min_order_qty,annual_demand
+MAT001,Steel Rod,Metal,units,52.0,280,0.2,8,100,7200
+MAT002,Aluminum Block,Metal,units,210.0,420,0.18,10,30,1440
+MAT003,Gear Blank,Metal,units,88.0,320,0.2,9,50,5760
+MAT004,Brake Disc,Metal,units,65.0,250,0.18,7,50,6720
+MAT005,Drive Shaft,Metal,units,145.0,380,0.2,12,30,2880
+MAT006,Bearing Set,Mechanical,sets,78.0,300,0.18,6,60,9600
+MAT007,Piston Ring Set,Mechanical,sets,95.0,350,0.2,8,40,2880
+MAT008,Clutch Plate,Mechanical,units,185.0,400,0.22,10,25,1920
+MAT009,Caliper Housing,Mechanical,units,120.0,350,0.2,8,30,3360
+MAT010,Engine Control Unit,Electrical,units,380.0,600,0.25,21,15,1440
+MAT011,ABS Sensor,Electrical,units,95.0,280,0.2,10,30,3360
+MAT012,Wiring Harness,Electrical,units,58.0,220,0.18,7,50,3840
+MAT013,Engine Gasket,Sealing,sets,28.0,150,0.15,5,100,2880
+MAT014,Gear Seal Kit,Sealing,kits,22.0,130,0.15,5,100,3840
+MAT015,Brake Pad Set,Sealing,sets,42.0,180,0.15,4,80,13440
